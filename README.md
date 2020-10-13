@@ -30,6 +30,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Swagger? How to document your Rest API using swagger?](http://feedproxy.google.com/~r/LearnJavaSkills/~3/Yq18L6htMLA/what-is-swagger.html)
+- [What is Spring Data JPA? Spring Data JPA in spring boot example](http://feedproxy.google.com/~r/LearnJavaSkills/~3/6Zeu31PbrUY/Spring-Data-JPA.html)
+- [How to create Rest API using spring boot in java example](http://feedproxy.google.com/~r/LearnJavaSkills/~3/tkqSi54AmD4/Rest-API-using-spring-boot-in-java.html)
+- [How to install Amazon Corretto JDK 11 on Windows 10](http://feedproxy.google.com/~r/LearnJavaSkills/~3/i3zDXSLMwUg/how-to-install-amazon-corretto-jdk-11.html)
+- [Access Modifiers in Java with examples | LearnJavaSkills](http://feedproxy.google.com/~r/LearnJavaSkills/~3/9BclOtpFf1w/access-modifiers-in-java.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.Learnjavaskills.in)
