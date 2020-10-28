@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I just launch my first blogging [website][website]
 - 🌱 I’m currently learning AWS
+- 💬 Check out my other [GitHub Profile][github]
 
 ### Connect with me:
 
@@ -48,5 +49,5 @@ Here are some ideas to get you started:
 [website]: https://www.Learnjavaskills.in
 [twitter]: https://twitter.com/im_imran_shaikh
 [linkedin]: https://linkedin.com/in/im-imran-shaikh
-
+[github]: https://github.com/LearnJavaSkills
 
