@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to connect MySQL database in spring boot application?](http://feedproxy.google.com/~r/LearnJavaSkills/~3/GPiQf5IG1II/how-to-connect-mysql-database-in-spring.html)
 - [How to install a custom library or jar in the maven local repository](http://feedproxy.google.com/~r/LearnJavaSkills/~3/OhA1Zk2N6D0/how-to-install-custom-library-or-jar-in.html)
 - [Spring Boot Actuator | Monitor Rest API using spring boot actuator](http://feedproxy.google.com/~r/LearnJavaSkills/~3/ak-VNYB03kw/spring-boot-actuator_18.html)
 - [What is Swagger? How to document your Rest API using swagger?](http://feedproxy.google.com/~r/LearnJavaSkills/~3/Yq18L6htMLA/what-is-swagger.html)
 - [What is Spring Data JPA? Spring Data JPA in spring boot example](http://feedproxy.google.com/~r/LearnJavaSkills/~3/6Zeu31PbrUY/Spring-Data-JPA.html)
-- [How to create Rest API using spring boot in java example](http://feedproxy.google.com/~r/LearnJavaSkills/~3/tkqSi54AmD4/Rest-API-using-spring-boot-in-java.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://www.Learnjavaskills.in)
